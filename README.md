@@ -159,8 +159,6 @@ The report notes the following limitations and cautions:
 
 1. PRIDE_MUDONDO_LINEAR_REGRESSION_PROJECT_REPORT.pdf: the full written report, dated December 02, 2025. It contains the introduction, exploratory data analysis, correlation analysis, each regression model with its results and diagnostic plots, the model comparison test, the forecast, and the conclusions and recommendations.
 2. PRIDE_MUDONDO_REGRESSION_ANALYISIS_PROJECT_EXCEL.xlsx: the Excel workbook containing the data, all supporting calculations, and the Minitab outputs used in the analysis. Its worksheets are described below.
-3. README.md: this document.
-4. .gitignore: excludes Excel temporary lock files and operating system files from version control.
 
 The workbook contains the following worksheets:
 
